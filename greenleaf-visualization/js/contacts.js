@@ -15,16 +15,16 @@ function renderContacts(DATA) {
   const tenantEmails = new Set(tenants.map(t => (t.email || '').toLowerCase()));
   const currentUserId = (DATA.contacts || {}).current_user_id;
 
-  _contAll = [...contacts].map((c, i) => {
+  _contAll = [...contacts].map(c => {
     let type = 'Contractor';
     if (c.is_user || c.contact_id === currentUserId) type = 'Manager';
     else if (tenantEmails.has((c.email || '').toLowerCase())) type = 'Tenant';
-    return { ...c, _type: type, _idx: i };
+    return { ...c, _type: type };
   }).sort((a, b) => {
     const order = { Manager: 0, Tenant: 1, Contractor: 2 };
     if (order[a._type] !== order[b._type]) return order[a._type] - order[b._type];
     return `${a.last_name} ${a.first_name}`.localeCompare(`${b.last_name} ${b.first_name}`);
-  });
+  }).map((c, i) => ({ ...c, _idx: i }));
 
   _contStore.length = 0;
   _contAll.forEach(c => _contStore.push(c));

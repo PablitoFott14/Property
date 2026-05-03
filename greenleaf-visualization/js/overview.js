@@ -19,11 +19,20 @@ function renderOverview(DATA) {
   const tenantByUnit = {};
   tenants.forEach(t => { tenantByUnit[t.unit_id] = t; });
 
+  if (typeof _propStore !== 'undefined') {
+    _propStore.length = 0;
+    props.forEach((p, i) => {
+      _propStore.push({ ...p, _units: unitsByProp[p.id] || [], _tenantByUnit: tenantByUnit, _idx: i });
+    });
+  }
+
   // KPIs
   const occupied    = units.filter(u => u.status === 'occupied').length;
   const vacant      = units.filter(u => u.status === 'vacant').length;
   const occPct      = units.length ? Math.round(occupied / units.length * 100) : 0;
-  const totalMRR    = tenants.filter(t => t.status === 'active').reduce((s, t) => s + (t.rent_amount || 0), 0);
+  const occupiedUnitIds = new Set(units.filter(u => u.status === 'occupied').map(u => String(u.id)));
+  const occupiedLeases = tenants.filter(t => occupiedUnitIds.has(String(t.unit_id)));
+  const totalMRR    = occupiedLeases.reduce((s, t) => s + (t.rent_amount || 0), 0);
   const activeTen   = tenants.filter(t => t.status === 'active').length;
   const unreadEmail = emails.filter(e => !e.is_read && e.folder === 'INBOX').length;
 
@@ -64,7 +73,7 @@ function renderOverview(DATA) {
     <div class="kpi-tile">
       <div class="kpi-label">Monthly Rent</div>
       <div class="kpi-value" style="color:var(--emerald)">${fmtCurrency(totalMRR)}</div>
-      <div class="kpi-sub">from ${activeTen} active leases</div>
+      <div class="kpi-sub">from ${occupiedLeases.length} occupied leases</div>
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Active Tenants</div>
@@ -87,7 +96,7 @@ function renderOverview(DATA) {
   html += `<div class="section-label" style="margin-bottom:12px">Properties</div>
   <div class="grid-3" style="margin-bottom:24px">`;
 
-  props.forEach(p => {
+  props.forEach((p, i) => {
     const propUnits = unitsByProp[p.id] || [];
     const occ  = propUnits.filter(u => u.status === 'occupied').length;
     const vac  = propUnits.filter(u => u.status === 'vacant').length;
@@ -99,7 +108,7 @@ function renderOverview(DATA) {
         return s + (t ? t.rent_amount || 0 : 0);
       }, 0);
 
-    html += `<div class="property-card">
+    html += `<div class="property-card" onclick="showPropertyModal(${i})">
       <div class="pc-name">${escHtml(p.name)}</div>
       <div class="pc-address">${escHtml(p.address)}, ${escHtml(p.city)}</div>
       <div class="pc-occ-bar"><div class="pc-occ-fill" style="width:${pct.toFixed(0)}%"></div></div>

@@ -20,16 +20,18 @@ function _renderRentRoll(DATA) {
   const tenByUnit = Object.fromEntries(tenants.map(t => [t.unit_id, t]));
   const strByTen  = Object.fromEntries(strCusts.map(c => [c.metadata?.tenant_id, c]));
 
-  const totalMRR  = tenants.filter(t => t.status === 'active').reduce((s, t) => s + (t.rent_amount || 0), 0);
   const occupied  = units.filter(u => u.status === 'occupied').length;
   const vacant    = units.filter(u => u.status === 'vacant').length;
+  const occupiedUnitIds = new Set(units.filter(u => u.status === 'occupied').map(u => String(u.id)));
+  const occupiedLeases = tenants.filter(t => occupiedUnitIds.has(String(t.unit_id)));
+  const totalMRR  = occupiedLeases.reduce((s, t) => s + (t.rent_amount || 0), 0);
   const avgRent   = occupied ? totalMRR / occupied : 0;
 
   let html = `<div class="kpi-row" style="margin-bottom:18px">
     <div class="kpi-tile">
       <div class="kpi-label">Monthly Rent</div>
       <div class="kpi-value" style="color:var(--emerald)">${fmtCurrency(totalMRR)}</div>
-      <div class="kpi-sub">${occupied} active leases</div>
+      <div class="kpi-sub">${occupiedLeases.length} occupied leases</div>
     </div>
     <div class="kpi-tile">
       <div class="kpi-label">Avg Rent / Unit</div>
