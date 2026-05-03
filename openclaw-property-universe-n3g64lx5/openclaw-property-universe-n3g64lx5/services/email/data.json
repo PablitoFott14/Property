@@ -1,0 +1,1875 @@
+{
+  "user_email": "manager@greenleafproperties.example.com",
+  "emails": [
+    {
+      "email_id": "10f1e3f30b324b32b0116dc3c68bc9a7",
+      "folder": "INBOX",
+      "sender": "b.worthington@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Pet request \u2014 Unit 301",
+      "content": "Hello,\n\nI know the lease says no pets, but I was wondering if there\u2019s any way to get approval for a cat? It\u2019s actually an emotional support animal \u2014 I have a letter from my therapist.\n\nThanks,\nBrandon Worthington",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771871075.0,
+      "is_read": false
+    },
+    {
+      "email_id": "095aee3050ce4c438f7ab1aff1159b45",
+      "folder": "INBOX",
+      "sender": "z.crestwood@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Water heater problem \u2014 Unit 1",
+      "content": "Hi,\n\nMy water heater is making a loud banging noise and the water is barely warm. Can you have the HVAC guys come look at it? It\u2019s really cold in the morning with no hot water.\n\nThanks,\nZoey Crestwood",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771861419.0,
+      "is_read": false
+    },
+    {
+      "email_id": "ae25ecdcd82d4a7dbf7ff7c3733911a1",
+      "folder": "INBOX",
+      "sender": "s.kingsley@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Front door lock is broken \u2014 Unit 404",
+      "content": "Hi there,\n\nThe deadbolt on my front door is jammed \u2014 I can\u2019t lock it from inside or outside. I had to prop a chair against the door last night. This is a safety issue, I need a locksmith ASAP.\n\nThanks,\nSophia Kingsley",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771810108.0,
+      "is_read": false
+    },
+    {
+      "email_id": "4dddf38358a84938bb142e8288298420",
+      "folder": "INBOX",
+      "sender": "ryan.whitmore@example.net",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Lease renewal question \u2014 Unit 201",
+      "content": "Good afternoon,\n\nMy lease is coming up next month and I wanted to ask about renewal. I\u2019d like to switch to a month-to-month if possible. I\u2019ve been here two years and really like the place.\n\nThank you,\nRyan Whitmore",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771767464.0,
+      "is_read": false
+    },
+    {
+      "email_id": "7c94e33deef54881a2fde2b78645952c",
+      "folder": "INBOX",
+      "sender": "s.sandoval@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Lightbulbs out in my unit \u2014 Unit 404",
+      "content": "Hi,\n\nSeveral lightbulbs have burned out in my apartment \u2014 kitchen, bathroom, and the hallway. I need someone to come replace them ASAP. It\u2019s a safety hazard.\n\nAppreciate it,\nSean Sandoval",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771757691.0,
+      "is_read": false
+    },
+    {
+      "email_id": "67aef4f32b594a449239fb87afeb81c0",
+      "folder": "INBOX",
+      "sender": "k.westbrook@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Kitchen faucet dripping constantly \u2014 Unit 2",
+      "content": "Hi there,\n\nMy kitchen faucet has been dripping non-stop for about a week. It\u2019s not a huge flow but it\u2019s constant and my water bill is going to be crazy. Can someone come fix it?\n\nBest,\nKyle Westbrook",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771751494.0,
+      "is_read": false
+    },
+    {
+      "email_id": "4117851b5f5b4b19aa7c8626d50680ed",
+      "folder": "INBOX",
+      "sender": "andrew.cromwell@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Quick favor \u2014 neighbor's number?",
+      "content": "Hey,\n\nI live in unit 305 at Barton Creek Villas. My neighbor Grace in 202 left a package at my door by mistake a few days ago and I keep missing her. Do you have her phone number so I can coordinate returning it? I don't want it sitting in my apartment much longer.\n\nThanks,\nAndrew Cromwell",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771750800.0,
+      "is_read": false
+    },
+    {
+      "email_id": "62e4fa5b74af480f9598d82385f7697e",
+      "folder": "INBOX",
+      "sender": "l.bancroft@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Security deposit discrepancy",
+      "content": "Hi there,\n\nI\u2019m reviewing my move-in paperwork and I believe I paid $2500 as a security deposit, but your records might show $2300. I have the original receipt. Can we verify this before my lease renewal?\n\nLiam Bancroft",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771744981.0,
+      "is_read": false
+    },
+    {
+      "email_id": "66816a4bf28e40e288e7b7d26083651f",
+      "folder": "INBOX",
+      "sender": "aaron.sutherland@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Toilet leaking at base \u2014 Unit 403",
+      "content": "Good morning,\n\nMy toilet is leaking water from the base every time I flush. I\u2019ve put towels around it but the floor is getting damaged. Can you send a plumber?\n\nAppreciate it,\nAaron Sutherland",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771744203.0,
+      "is_read": false
+    },
+    {
+      "email_id": "fec229e057b5423a8e88fde7ef32647d",
+      "folder": "INBOX",
+      "sender": "s.kingsley@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2041 \u2014 Cockroaches spotted",
+      "content": "Hi,\n\nI submitted a maintenance request (MR-2041) for cockroaches spotted and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nRegards,\nSophia Kingsley",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771723573.0,
+      "is_read": false
+    },
+    {
+      "email_id": "13f3cfb1e7b441db82603faff608b374",
+      "folder": "INBOX",
+      "sender": "andrew.cromwell@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Electrical issue in kitchen \u2014 Unit 305",
+      "content": "Good morning,\n\nThe outlet behind my fridge stopped working and now there\u2019s a burning smell coming from the wall. Can you send the plumber? I think there might be water damage causing it.\n\nThanks!\nAndrew Cromwell",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771680145.0,
+      "is_read": false
+    },
+    {
+      "email_id": "f60978bad04a4d719e7fb07342726611",
+      "folder": "INBOX",
+      "sender": "emily_haverford@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Security deposit discrepancy",
+      "content": "Hi there,\n\nI\u2019m reviewing my move-in paperwork and I believe I paid $1550 as a security deposit, but your records might show $1350. I have the original receipt. Can we verify this before my lease renewal?\n\nEmily Haverford",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771677786.0,
+      "is_read": false
+    },
+    {
+      "email_id": "bb8493e72c314f5abee6a817946c0607",
+      "folder": "INBOX",
+      "sender": "scarlett.castellano@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Weird smell in apartment \u2014 Unit 3",
+      "content": "Hi,\n\nThere\u2019s a weird musty smell in my apartment, especially near the bathroom. I think it might be mold. Can you send the cleaning company to do a deep clean?\n\nThanks!\nScarlett Castellano",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771653850.0,
+      "is_read": false
+    },
+    {
+      "email_id": "6e452fb83cb142339edf1cc1b0d8d7a4",
+      "folder": "INBOX",
+      "sender": "a.marlowe@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Hot water not working \u2014 Unit 201",
+      "content": "Good morning,\n\nI have no hot water as of this morning. The water heater seems completely dead \u2014 no pilot light, nothing. I have a baby at home and really need this fixed today if possible.\n\nThanks!\nAlexander Marlowe",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771635722.0,
+      "is_read": false
+    },
+    {
+      "email_id": "55f8910b88c54121956cf3fb6f27a4f2",
+      "folder": "INBOX",
+      "sender": "d.park@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Domain Heights",
+      "content": "Hello,\n\nThe tenant above me has been extremely loud every weekend. Music blasting until 2am. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks,\nDerek Park",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771595703.0,
+      "is_read": false
+    },
+    {
+      "email_id": "371714ef43ff4500a8c436edc93033d1",
+      "folder": "INBOX",
+      "sender": "e.greenfield@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent notice",
+      "content": "Hi there,\n\nI\u2019m confused by the late rent notice. I paid my rent on time via Zelle on the 1st. I have the confirmation screenshot. Can you check your records? There must be a mistake.\n\nEvelyn Greenfield",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771591070.0,
+      "is_read": false
+    },
+    {
+      "email_id": "4ea3007979e24b33812ae77c2dbebb84",
+      "folder": "INBOX",
+      "sender": "ella.petrov@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Still waiting on my maintenance request",
+      "content": "Hi there,\n\nI submitted a maintenance request last month about a leak under the bathroom sink and nobody has come out yet. This is unacceptable. I\u2019ve been a good tenant for over a year.\n\nElla Petrov",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771588146.0,
+      "is_read": false
+    },
+    {
+      "email_id": "d4b8c20e481146639a795c06bba92070",
+      "folder": "INBOX",
+      "sender": "david.andersen@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "AC stopped working \u2014 Unit 1",
+      "content": "Hello,\n\nMy AC unit stopped blowing cold air yesterday. It\u2019s running but just blowing warm air. With this Austin heat, it\u2019s getting really uncomfortable in here. Can someone come look at it?\n\nThanks,\nDavid Andersen",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771564652.0,
+      "is_read": false
+    },
+    {
+      "email_id": "806499aa6452435193953e2f7e28b826",
+      "folder": "INBOX",
+      "sender": "audrey.galloway@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Drain is clogged \u2014 Unit 2",
+      "content": "Hi there,\n\nMy bathroom drain is completely clogged and water is backing up. This needs to be fixed immediately. Send a plumber.\n\nThanks,\nAudrey Galloway",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771541752.0,
+      "is_read": false
+    },
+    {
+      "email_id": "571f173f898744a5a4aba1ee8752d188",
+      "folder": "INBOX",
+      "sender": "l.hathaway@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Rent increase not agreed to",
+      "content": "Hi there,\n\nI just saw my rent portal shows $1750 but my lease says $1650. I never agreed to a rent increase. Please fix this immediately or I\u2019ll need to see the signed amendment.\n\nLily Hathaway",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771535835.0,
+      "is_read": false
+    },
+    {
+      "email_id": "a62deabfc4964e1895d9270eeef4605d",
+      "folder": "INBOX",
+      "sender": "charlotte.kensington@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Garbage disposal is jammed \u2014 Unit 101",
+      "content": "Hey,\n\nMy garbage disposal stopped working. I think something got stuck in it. I need a repair person out here today.\n\nThanks!\nCharlotte Kensington",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771530948.0,
+      "is_read": false
+    },
+    {
+      "email_id": "beb08efcc3f64a37b014868e4c69c8ba",
+      "folder": "INBOX",
+      "sender": "kevin.manning@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Security deposit discrepancy",
+      "content": "Hi there,\n\nI\u2019m reviewing my move-in paperwork and I believe I paid $1450 as a security deposit, but your records might show $1250. I have the original receipt. Can we verify this before my lease renewal?\n\nKevin Manning",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771515698.0,
+      "is_read": false
+    },
+    {
+      "email_id": "973e897be5fe4249806d570d86f68f31",
+      "folder": "INBOX",
+      "sender": "scarlett.castellano@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2018 \u2014 Ceiling stain \u2014 possible leak above",
+      "content": "Hey,\n\nI submitted a maintenance request (MR-2018) for ceiling stain \u2014 possible leak above and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nThanks,\nScarlett Castellano",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771485567.0,
+      "is_read": false
+    },
+    {
+      "email_id": "d5f1e83309d64382a97a1492f9a31762",
+      "folder": "INBOX",
+      "sender": "s.whitfield@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Subletting question \u2014 Unit 307",
+      "content": "Hi there,\n\nI need to travel for work for 6 weeks and was wondering if I can sublet my apartment while I\u2019m away? I have a friend who\u2019d be interested. What\u2019s the policy on this?\n\nAppreciate it,\nSavannah Whitfield",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771477132.0,
+      "is_read": false
+    },
+    {
+      "email_id": "7bf9372eea0945deba76d1117675586d",
+      "folder": "INBOX",
+      "sender": "olivia.ashworth@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2033 \u2014 Oven won't heat up",
+      "content": "Hello,\n\nI submitted a maintenance request (MR-2033) for oven won't heat up and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nRegards,\nOlivia Ashworth",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771443847.0,
+      "is_read": false
+    },
+    {
+      "email_id": "5c78e545450f4113b3d1e79d21cd0d37",
+      "folder": "INBOX",
+      "sender": "l.bancroft@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2043 \u2014 Smoke detector beeping",
+      "content": "Good morning,\n\nI submitted a maintenance request (MR-2043) for smoke detector beeping and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nRegards,\nLiam Bancroft",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771370306.0,
+      "is_read": false
+    },
+    {
+      "email_id": "f5ea21903b01430f903a66fcf9b74b97",
+      "folder": "INBOX",
+      "sender": "henry_carrington@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Outlet sparking in bedroom \u2014 Unit 406",
+      "content": "Hello,\n\nWhen I plugged in my phone charger last night, the bedroom outlet sparked and now it\u2019s not working. I\u2019m nervous about using it. The outlet cover also feels warm to the touch. Can you send an electrician?\n\nThanks!\nHenry Carrington",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771364213.0,
+      "is_read": false
+    },
+    {
+      "email_id": "cec370304c414c8ca66af75816fd4f6a",
+      "folder": "INBOX",
+      "sender": "aria_holbrook@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Zilker Edge",
+      "content": "Hi,\n\nThe tenant next to me has been extremely loud late at night. Sounds like they are having a party every night. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks!\nAria Holbrook",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771339654.0,
+      "is_read": false
+    },
+    {
+      "email_id": "2657d0926f46496390bdbc10e505bdd1",
+      "folder": "INBOX",
+      "sender": "a.marlowe@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent notice",
+      "content": "Hi there,\n\nI\u2019m confused by the late rent notice. I paid my rent on time via Zelle on the 1st. I have the confirmation screenshot. Can you check your records? There must be a mistake.\n\nAlexander Marlowe",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771334709.0,
+      "is_read": false
+    },
+    {
+      "email_id": "67dd62258ed04c80a839c6fcb08ec9e5",
+      "folder": "INBOX",
+      "sender": "nathan.blackwood@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Smoke detector keeps going off \u2014 Unit 205",
+      "content": "Hello,\n\nThe smoke detector in my hallway keeps going off randomly \u2014 no smoke, no cooking, it just beeps for about 30 seconds then stops. It happened 4 times last night. I think it might be a wiring issue since it\u2019s hardwired.\n\nBest,\nNathan Blackwood",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771315982.0,
+      "is_read": false
+    },
+    {
+      "email_id": "da83ff0bd14f48ea89b13b29c730364a",
+      "folder": "INBOX",
+      "sender": "hannah_crawford@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2002 \u2014 Outlet not working in bedroom",
+      "content": "Hey,\n\nI submitted a maintenance request (MR-2002) for outlet not working in bedroom and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nThank you,\nHannah Crawford",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771297559.0,
+      "is_read": false
+    },
+    {
+      "email_id": "b0c9a21a0a5846b880c3bacd376aeab4",
+      "folder": "INBOX",
+      "sender": "e.greenfield@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent notice",
+      "content": "Hi there,\n\nI\u2019m confused by the late rent notice. I paid my rent on time via bank transfer on the 1st. I have the confirmation screenshot. Can you check your records? There must be a mistake.\n\nEvelyn Greenfield",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771291953.0,
+      "is_read": false
+    },
+    {
+      "email_id": "9c42500985ad445fbfefb5422e2c1216",
+      "folder": "INBOX",
+      "sender": "emily_haverford@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Ceiling stain getting worse \u2014 Unit 104",
+      "content": "Hi there,\n\nThe stain on my bathroom ceiling is getting bigger and now it\u2019s starting to bubble. I think the roof might be leaking. Can you send the painter to fix the ceiling?\n\nThank you,\nEmily Haverford",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771239385.0,
+      "is_read": false
+    },
+    {
+      "email_id": "df4daabb36f04831b40202ea613d9eb3",
+      "folder": "INBOX",
+      "sender": "patrick_houghton@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Rent increase not agreed to",
+      "content": "Hi there,\n\nI just saw my rent portal shows $2450 but my lease says $2400. I never agreed to a rent increase. Please fix this immediately or I\u2019ll need to see the signed amendment.\n\nPatrick Houghton",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771226814.0,
+      "is_read": false
+    },
+    {
+      "email_id": "f550b79f8a114c3b848af8c4d3635034",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "mike@mikesplumbing.example.com"
+      ],
+      "subject": "Work request \u2014 MR-2031 at Domain Heights",
+      "content": "Hi Mike's team,\n\nWe have a plumbing issue at Domain Heights (11200 Domain Dr). Tenant reported it earlier this week.\n\nCan you send someone out tomorrow? Please call the tenant to schedule access. Their number is on file.\n\nThanks,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771200977.0,
+      "is_read": true
+    },
+    {
+      "email_id": "fd7d6489273e49a08bdde4e4e6c410e1",
+      "folder": "INBOX",
+      "sender": "z.crestwood@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 1",
+      "content": "Hey,\n\nI know my rent is overdue and I apologize. I had an unexpected medical expense this month. Can I set up a payment plan to catch up? I can pay half now and the rest by the 15th.\n\nThank you,\nZoey Crestwood",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771192114.0,
+      "is_read": false
+    },
+    {
+      "email_id": "d9c104ee413a4b259ba8f6dc1c4439e1",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "kevin.manning@inbox.example.com"
+      ],
+      "subject": "Re: Maintenance request \u2014 Unit 102",
+      "content": "Hi Kevin,\n\nThanks for reporting this. I\u2019ve assigned a contractor and they should be out within the next 2-3 business days. They\u2019ll call you to schedule a time. Please make sure someone is home or leave a key with the office.\n\nThanks,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771188915.0,
+      "is_read": true
+    },
+    {
+      "email_id": "da44412f6a5544098fabe6ee6b093a13",
+      "folder": "INBOX",
+      "sender": "michael.delacroix@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2012 \u2014 Deadbolt not locking properly",
+      "content": "Hi,\n\nI submitted a maintenance request (MR-2012) for deadbolt not locking properly and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nBest,\nMichael Delacroix",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771186148.0,
+      "is_read": false
+    },
+    {
+      "email_id": "06ea23e193f6406c9851e718b29545a6",
+      "folder": "INBOX",
+      "sender": "c.hargrove@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2034 \u2014 Paint peeling in hallway",
+      "content": "Hi,\n\nI submitted a maintenance request (MR-2034) for paint peeling in hallway and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nBest,\nChloe Hargrove",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771156944.0,
+      "is_read": false
+    },
+    {
+      "email_id": "0fc42a88a6ab4aa3a0c4357434f1fa0d",
+      "folder": "INBOX",
+      "sender": "v.houghton@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Inquiry about 3BR availability",
+      "content": "Hi there,\n\nI saw your listing and I\u2019m interested in a 3-bedroom apartment. What\u2019s available and what\u2019s the rent range? I\u2019m looking to move in within the next month. \n\nThanks,\nViolet Houghton",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771145764.0,
+      "is_read": false
+    },
+    {
+      "email_id": "eaa1c8748dd44eb58b32ace78c9006c1",
+      "folder": "INBOX",
+      "sender": "n.buckley@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Cockroach problem getting worse \u2014 Unit 1",
+      "content": "Hello,\n\nI\u2019ve been seeing more and more cockroaches in my kitchen over the past two weeks. I keep my apartment clean and I\u2019ve tried store-bought sprays but they keep coming back. I think they\u2019re coming from somewhere in the walls. Can you send pest control?\n\nBest,\nNoah Buckley",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771138548.0,
+      "is_read": false
+    },
+    {
+      "email_id": "45cdb32f86fa4ee0a4b00cf43ddc576f",
+      "folder": "INBOX",
+      "sender": "aria_holbrook@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Still waiting on my maintenance request",
+      "content": "Hi there,\n\nI submitted a maintenance request two weeks ago about a leak under the bathroom sink and nobody has come out yet. This is unacceptable. I\u2019ve been a good tenant for two years.\n\nAria Holbrook",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771105118.0,
+      "is_read": false
+    },
+    {
+      "email_id": "3d0f046d99d3498e99e56ade85f55cef",
+      "folder": "INBOX",
+      "sender": "avery.navarro@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Still waiting on my maintenance request",
+      "content": "Hi there,\n\nI submitted a maintenance request two weeks ago about a leak under the bathroom sink and nobody has come out yet. This is unacceptable. I\u2019ve been a good tenant for over a year.\n\nAvery Navarro",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771055929.0,
+      "is_read": false
+    },
+    {
+      "email_id": "2c4e9a1aa1a84662805f554be11bbc67",
+      "folder": "INBOX",
+      "sender": "aaron.sutherland@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 403",
+      "content": "Hi,\n\nI know my rent is overdue and I apologize. I had an unexpected medical expense this month. Can I set up a payment plan to catch up? I can pay half now and the rest by the 15th.\n\nBest,\nAaron Sutherland",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771037221.0,
+      "is_read": false
+    },
+    {
+      "email_id": "4c08fd955e504b72ab79df3305546adc",
+      "folder": "INBOX",
+      "sender": "daniel.townsend@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Wasps near my window \u2014 Unit 403",
+      "content": "Hi there,\n\nThere\u2019s a wasp nest forming near my bedroom window on the outside. Can you have the handyman come remove it? I\u2019m allergic and this is urgent.\n\nThank you,\nDaniel Townsend",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1771022929.0,
+      "is_read": false
+    },
+    {
+      "email_id": "758b2a5027c34289a1de4274eb155dcf",
+      "folder": "INBOX",
+      "sender": "dispatch@hcpest.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Quote for upcoming work",
+      "content": "Hi,\n\nHere\u2019s the estimate for the work we discussed:\n\n- Labor: $529\n- Parts: $248\n- Total: $576\n\nWe can schedule for this Thursday. Let me know.\n\nHill Country Pest Control",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770989212.0,
+      "is_read": false
+    },
+    {
+      "email_id": "0cc4258fcb8a486da9e4019f46593666",
+      "folder": "INBOX",
+      "sender": "olivia.ashworth@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "I lost my key, need a new one \u2014 Unit 102",
+      "content": "Good morning,\n\nI lost my apartment key and need a replacement made. Can you send the locksmith? This is urgent, I\u2019m locked out.\n\nThank you,\nOlivia Ashworth",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770975622.0,
+      "is_read": false
+    },
+    {
+      "email_id": "7a36267d010d43bf904dcf587e714396",
+      "folder": "INBOX",
+      "sender": "victoria.thornton@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Blinds are broken \u2014 Unit 206",
+      "content": "Hi,\n\nThe blinds in my bedroom are broken \u2014 they won\u2019t close anymore. I need privacy, this needs to be fixed.\n\nRegards,\nVictoria Thornton",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770972597.0,
+      "is_read": false
+    },
+    {
+      "email_id": "4dcb0fef75f94c52a53d40f85ebfbcef",
+      "folder": "INBOX",
+      "sender": "stella_kimura@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2038 \u2014 Ceiling stain \u2014 possible leak above",
+      "content": "Hello,\n\nI submitted a maintenance request (MR-2038) for ceiling stain \u2014 possible leak above and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nBest,\nStella Kimura",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770962674.0,
+      "is_read": false
+    },
+    {
+      "email_id": "8b771675f0664b128bf32f20fbc2fd81",
+      "folder": "INBOX",
+      "sender": "e.greenfield@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 407",
+      "content": "Hey,\n\nI know my rent is overdue and I apologize. I had an unexpected medical expense this month. Can I set up a payment plan to catch up? I can pay half now and the rest by the 15th.\n\nAppreciate it,\nEvelyn Greenfield",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770932886.0,
+      "is_read": false
+    },
+    {
+      "email_id": "62c2e22e9fee4a22908793ab335fe0b7",
+      "folder": "INBOX",
+      "sender": "hannah.chambers@example.net",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Inquiry about 1BR availability",
+      "content": "Hi there,\n\nI saw your listing and I\u2019m interested in a 1-bedroom apartment. What\u2019s available and what\u2019s the rent range? I\u2019m looking to move in within the next month. I have a small dog \u2014 is that OK?\n\nThanks,\nHannah Chambers",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770906944.0,
+      "is_read": false
+    },
+    {
+      "email_id": "17212ebf383f4c0d97c675babbfee55b",
+      "folder": "INBOX",
+      "sender": "james_ashford@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Air filter needs changing \u2014 Unit 4",
+      "content": "Hi there,\n\nThe air filter in my HVAC unit is filthy and it\u2019s affecting the air quality. I shouldn\u2019t have to breathe this. When is maintenance coming to replace it?\n\nThanks!\nJames Ashford",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770897769.0,
+      "is_read": false
+    },
+    {
+      "email_id": "4918ce4297114476bc0c70dfcfae983d",
+      "folder": "INBOX",
+      "sender": "andrew.cromwell@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Rent increase not agreed to",
+      "content": "Hi there,\n\nI just saw my rent portal shows $1750 but my lease says $1650. I never agreed to a rent increase. Please fix this immediately or I\u2019ll need to see the signed amendment.\n\nAndrew Cromwell",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770849048.0,
+      "is_read": false
+    },
+    {
+      "email_id": "5bbc306fac144ef08fa38a2a83f61f23",
+      "folder": "INBOX",
+      "sender": "samuel_pendleton@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 303",
+      "content": "Hello,\n\nI know my rent is overdue and I apologize. I had an unexpected medical expense this month. Can I set up a payment plan to catch up? I can pay half now and the rest by the 15th.\n\nBest,\nSamuel Pendleton",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770839940.0,
+      "is_read": false
+    },
+    {
+      "email_id": "fc5e5dba1b474cf4b3adb09257cd511f",
+      "folder": "INBOX",
+      "sender": "nathan.blackwood@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Pet request \u2014 Unit 205",
+      "content": "Good morning,\n\nI know the lease says no pets, but I was wondering if there\u2019s any way to get approval for a small dog (under 20 lbs)? It\u2019s actually an emotional support animal \u2014 I have a letter from my therapist.\n\nThanks,\nNathan Blackwood",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770813576.0,
+      "is_read": false
+    },
+    {
+      "email_id": "e5b52ea565ec449cbcfd518934a52dc0",
+      "folder": "INBOX",
+      "sender": "l.bancroft@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Need electrical panel work \u2014 Unit 305",
+      "content": "Good morning,\n\nMy breaker keeps tripping whenever I run the microwave and AC at the same time. The panel looks old. Can you have the handyman take a look at the electrical panel?\n\nThank you,\nLiam Bancroft",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770740371.0,
+      "is_read": false
+    },
+    {
+      "email_id": "6be20518becd430b99c2baea9c585a15",
+      "folder": "INBOX",
+      "sender": "j.strickland@example.net",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Inquiry about 2BR availability",
+      "content": "Hi there,\n\nI saw your listing and I\u2019m interested in a 2-bedroom apartment. What\u2019s available and what\u2019s the rent range? I\u2019m looking to move in within the next month. \n\nThanks,\nJerome Strickland",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770739515.0,
+      "is_read": false
+    },
+    {
+      "email_id": "57af8c7c058d4e97a05d79055c35529d",
+      "folder": "INBOX",
+      "sender": "l.hathaway@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Pet request \u2014 Unit 102",
+      "content": "Hey,\n\nI know the lease says no pets, but I was wondering if there\u2019s any way to get approval for a cat? I\u2019d be willing to pay a pet deposit.\n\nBest,\nLily Hathaway",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770720852.0,
+      "is_read": false
+    },
+    {
+      "email_id": "ac29e797c77d483bbf943f139d3a22e5",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "ella.petrov@example.com"
+      ],
+      "subject": "Move-out instructions \u2014 Unit 2",
+      "content": "Hi Ella,\n\nPer your 30-day notice, your move-out date is scheduled. Please make sure the unit is cleaned, all personal belongings removed, and keys returned to the office. We\u2019ll do a walk-through inspection within 3 days of move-out. Your security deposit will be returned within 30 days minus any damages.\n\nThanks,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770717540.0,
+      "is_read": true
+    },
+    {
+      "email_id": "363cffd56d3f4d4c849b68e8a033f563",
+      "folder": "INBOX",
+      "sender": "service@austinhvac.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Quote for upcoming work",
+      "content": "Hi,\n\nHere\u2019s the estimate for the work we discussed:\n\n- Labor: $219\n- Parts: $245\n- Total: $1100\n\nWe can schedule for next Tuesday. Let me know.\n\nAustin HVAC Pros",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770709878.0,
+      "is_read": false
+    },
+    {
+      "email_id": "0e40f131847f447cab5086acbba2cfd9",
+      "folder": "INBOX",
+      "sender": "emily_haverford@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 104",
+      "content": "Good morning,\n\nI know my rent is overdue and I apologize. I had an unexpected medical expense this month. Can I set up a payment plan to catch up? I can pay half now and the rest by the 15th.\n\nBest,\nEmily Haverford",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770705590.0,
+      "is_read": false
+    },
+    {
+      "email_id": "c8ed020c69a24094acaaa2aecda8a097",
+      "folder": "INBOX",
+      "sender": "patrick_houghton@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Lease renewal question \u2014 Unit 1",
+      "content": "Hi there,\n\nMy lease is coming up in a couple months and I wanted to ask about renewal. I\u2019d like to switch to a month-to-month if possible. I\u2019ve been here two years and really like the place.\n\nBest,\nPatrick Houghton",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770680850.0,
+      "is_read": false
+    },
+    {
+      "email_id": "a32d8711c361488290ab451a3fd655ac",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "abigail.clearwater@mail.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 402",
+      "content": "Hi Abigail,\n\nThanks for letting me know. I understand things come up. Please get the payment in by the 15th to avoid the additional late fee. If you need to discuss a payment plan, let me know and we can work something out.\n\nBest,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770678571.0,
+      "is_read": true
+    },
+    {
+      "email_id": "3a6a52eb93564db98ee5ec078e5500f8",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "dispatch@hcpest.example.com"
+      ],
+      "subject": "Work request \u2014 MR-2016 at Mueller Park Residences",
+      "content": "Hi Hill team,\n\nWe have a maintenance issue at Mueller Park Residences (4520 Mueller Blvd). Tenant reported it yesterday.\n\nCan you send someone out tomorrow? Please call the tenant to schedule access. Their number is on file.\n\nThanks,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770517659.0,
+      "is_read": true
+    },
+    {
+      "email_id": "c6311ebc7aaa4eb8a39867c0623bea43",
+      "folder": "INBOX",
+      "sender": "j.pemberton@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 301",
+      "content": "Good morning,\n\nI know my rent is overdue and I apologize. I had an unexpected medical expense this month. Can I set up a payment plan to catch up? I can pay half now and the rest by the 15th.\n\nBest,\nJoseph Pemberton",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770474586.0,
+      "is_read": false
+    },
+    {
+      "email_id": "caea1b45d17242be9eb827d7a6d6f83b",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "s.sandoval@example.org"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 404",
+      "content": "Hi Sean,\n\nThanks for letting me know. I understand things come up. Please get the payment in by the 15th to avoid the additional late fee. If you need to discuss a payment plan, let me know and we can work something out.\n\nBest,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770453081.0,
+      "is_read": true
+    },
+    {
+      "email_id": "791f8642bd3a443181b4563760e61c98",
+      "folder": "INBOX",
+      "sender": "daniel.townsend@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Lock change request \u2014 Unit 403",
+      "content": "Hi there,\n\nI\u2019d like to get my locks changed. My ex still has a copy of the key and I\u2019d feel safer with new locks. How do I arrange this and what\u2019s the cost?\n\nThanks!\nDaniel Townsend",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770440144.0,
+      "is_read": false
+    },
+    {
+      "email_id": "e23206892d8f42d3a4ad74ef7996158b",
+      "folder": "INBOX",
+      "sender": "henry.delacroix@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Inquiry about 2BR availability",
+      "content": "Hi there,\n\nI saw your listing and I\u2019m interested in a 2-bedroom apartment. What\u2019s available and what\u2019s the rent range? I\u2019m looking to move in by March 1st. \n\nThanks,\nHenry Delacroix",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770430043.0,
+      "is_read": false
+    },
+    {
+      "email_id": "293886090ee44848a2a06dd5a1fb7e23",
+      "folder": "INBOX",
+      "sender": "a.marlowe@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 201",
+      "content": "Hi,\n\nI know my rent is overdue and I apologize. I had an unexpected medical expense this month. Can I set up a payment plan to catch up? I can pay half now and the rest by the 15th.\n\nThank you,\nAlexander Marlowe",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770426523.0,
+      "is_read": false
+    },
+    {
+      "email_id": "052b80b7294b48d88554c3a341879c8e",
+      "folder": "INBOX",
+      "sender": "olivia.ashworth@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Lock change request \u2014 Unit 102",
+      "content": "Hello,\n\nI\u2019d like to get my locks changed. I lost my keys. How do I arrange this and what\u2019s the cost?\n\nRegards,\nOlivia Ashworth",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770308236.0,
+      "is_read": false
+    },
+    {
+      "email_id": "2baaac1fd9ef4d6ebfd1e8b82588865f",
+      "folder": "INBOX",
+      "sender": "abigail.clearwater@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Mueller Park Residences",
+      "content": "Hey,\n\nThe tenant above me has been extremely loud late at night. Sounds like they are having a party every night. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks!\nAbigail Clearwater",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770236568.0,
+      "is_read": false
+    },
+    {
+      "email_id": "9f9e69f9fe264324a1f2ffbab4f2966b",
+      "folder": "INBOX",
+      "sender": "lucas_aldridge@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 East Side Flats",
+      "content": "Hey,\n\nThe tenant above me has been extremely loud late at night. Sounds like they are having a party every night. I've tried knocking on their door but they don't answer. Can you please address this?\n\nAppreciate it,\nLucas Aldridge",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770224501.0,
+      "is_read": false
+    },
+    {
+      "email_id": "67232e70906d49f5a3b5de56bcd4f14d",
+      "folder": "INBOX",
+      "sender": "s.whitfield@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2039 \u2014 Pipe burst under sink",
+      "content": "Hi there,\n\nI submitted a maintenance request (MR-2039) for pipe burst under sink and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nAppreciate it,\nSavannah Whitfield",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770208909.0,
+      "is_read": false
+    },
+    {
+      "email_id": "b109bab6a76444869f64927cedb373c0",
+      "folder": "INBOX",
+      "sender": "david.andersen@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 North Loop Lofts",
+      "content": "Good morning,\n\nThe tenant next to me has been extremely loud every weekend. Music blasting until 2am. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks,\nDavid Andersen",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770132044.0,
+      "is_read": false
+    },
+    {
+      "email_id": "2b713b842051433b861dfb095a4bd56e",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "audrey.galloway@example.org"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 2",
+      "content": "Hi Audrey,\n\nThanks for letting me know. I understand things come up. Please get the payment in by the 15th to avoid the additional late fee. If you need to discuss a payment plan, let me know and we can work something out.\n\nBest,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770089731.0,
+      "is_read": true
+    },
+    {
+      "email_id": "ee2db5c19cdf487c9c095ba317643655",
+      "folder": "INBOX",
+      "sender": "s.sandoval@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2004 \u2014 Ants in kitchen",
+      "content": "Hey,\n\nI submitted a maintenance request (MR-2004) for ants in kitchen and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nAppreciate it,\nSean Sandoval",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1770063351.0,
+      "is_read": false
+    },
+    {
+      "email_id": "74d1e68afc084f1abdf145e6804278e4",
+      "folder": "INBOX",
+      "sender": "riley_davenport@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Zilker Edge",
+      "content": "Hello,\n\nThe tenant above me has been extremely loud late at night. Music blasting until 2am. I've tried knocking on their door but they don't answer. Can you please address this?\n\nAppreciate it,\nRiley Davenport",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769990184.0,
+      "is_read": false
+    },
+    {
+      "email_id": "d06911119bdc47ca837c0bbdb5908213",
+      "folder": "INBOX",
+      "sender": "patrick_houghton@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2037 \u2014 Smoke detector beeping",
+      "content": "Hi there,\n\nI submitted a maintenance request (MR-2037) for smoke detector beeping and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nBest,\nPatrick Houghton",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769989721.0,
+      "is_read": false
+    },
+    {
+      "email_id": "4407c345005340f3a557c3de3f982a16",
+      "folder": "INBOX",
+      "sender": "n.foxworth@example.net",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Manor Road Studios",
+      "content": "Hey,\n\nThe tenant next to me has been extremely loud late at night. Music blasting until 2am. I've tried knocking on their door but they don't answer. Can you please address this?\n\nBest,\nNora Foxworth",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769928826.0,
+      "is_read": false
+    },
+    {
+      "email_id": "b5bc9a39f82542c6910688e84bc21b33",
+      "folder": "INBOX",
+      "sender": "clara.okafor@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Inquiry about 2BR availability",
+      "content": "Hi there,\n\nI saw your listing and I\u2019m interested in a 2-bedroom apartment. What\u2019s available and what\u2019s the rent range? I\u2019m looking to move in within the next month. I have a small dog \u2014 is that OK?\n\nThanks,\nClara Okafor",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769888570.0,
+      "is_read": false
+    },
+    {
+      "email_id": "2e65484f4bbf48e782213cd65911531c",
+      "folder": "INBOX",
+      "sender": "h.brookhaven@example.net",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Subletting question \u2014 Unit 105",
+      "content": "Hey,\n\nI need to travel for work for 3 months and was wondering if I can sublet my apartment while I\u2019m away? I have a friend who\u2019d be interested. What\u2019s the policy on this?\n\nThanks!\nHarper Brookhaven",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769849047.0,
+      "is_read": false
+    },
+    {
+      "email_id": "8f84e7da3a244ed6946d8db9d86b7fc2",
+      "folder": "INBOX",
+      "sender": "i.prescott@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Package theft at Riverside Commons",
+      "content": "Hi,\n\nI\u2019ve had two packages stolen from the front entrance this month. Is there security camera footage we can check? This is really frustrating.\n\nAppreciate it,\nIsabella Prescott",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769832867.0,
+      "is_read": false
+    },
+    {
+      "email_id": "56351f9a0c714ceb8e93f99dd08739cf",
+      "folder": "INBOX",
+      "sender": "j.lockhart@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Subletting question \u2014 Unit 3",
+      "content": "Good afternoon,\n\nI need to travel for work for 3 months and was wondering if I can sublet my apartment while I\u2019m away? I have a friend who\u2019d be interested. What\u2019s the policy on this?\n\nThank you,\nJesse Lockhart",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769804111.0,
+      "is_read": false
+    },
+    {
+      "email_id": "913e52b3f93a4cc397af962f67ed383d",
+      "folder": "INBOX",
+      "sender": "s.kingsley@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Inquiry about 1BR availability",
+      "content": "Hi there,\n\nI saw your listing and I\u2019m interested in a 1-bedroom apartment. What\u2019s available and what\u2019s the rent range? I\u2019m looking to move in by March 1st. \n\nThanks,\nScarlett Kingsley",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769752195.0,
+      "is_read": false
+    },
+    {
+      "email_id": "2478d9e5cdcc417094d9292425f9205c",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "service@austinhvac.example.com"
+      ],
+      "subject": "Work request \u2014 MR-2024 at East Side Flats",
+      "content": "Hi Austin team,\n\nWe have a HVAC issue at East Side Flats (1105 E Cesar Chavez St). Tenant reported it earlier this week.\n\nCan you send someone out this week? Please call the tenant to schedule access. Their number is on file.\n\nThanks,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769712753.0,
+      "is_read": true
+    },
+    {
+      "email_id": "1bb9c0dad12744bb89a64ad3d435a423",
+      "folder": "INBOX",
+      "sender": "j.oakridge@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Lock change request \u2014 Unit 405",
+      "content": "Hello,\n\nI\u2019d like to get my locks changed. My ex still has a copy of the key and I\u2019d feel safer with new locks. How do I arrange this and what\u2019s the cost?\n\nThank you,\nJustin Oakridge",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769662788.0,
+      "is_read": false
+    },
+    {
+      "email_id": "4bd4b72a5dd24e198f4dd311bb3152f2",
+      "folder": "INBOX",
+      "sender": "scarlett.castellano@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 North Loop Lofts",
+      "content": "Hey,\n\nThe tenant next to me has been extremely loud late at night. Sounds like they are having a party every night. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks,\nScarlett Castellano",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769652336.0,
+      "is_read": false
+    },
+    {
+      "email_id": "6d473e4bf82e40d88627f95e0f133201",
+      "folder": "INBOX",
+      "sender": "emily_haverford@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Lease renewal question \u2014 Unit 104",
+      "content": "Good morning,\n\nMy lease is coming up next month and I wanted to ask about renewal. Will my rent go up? I\u2019ve been here two years and really like the place.\n\nBest,\nEmily Haverford",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769650829.0,
+      "is_read": false
+    },
+    {
+      "email_id": "098ffec003cd4907a4aa0c69274b7131",
+      "folder": "INBOX",
+      "sender": "aaron.sutherland@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2017 \u2014 Window won't close properly",
+      "content": "Hi,\n\nI submitted a maintenance request (MR-2017) for window won't close properly and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nBest,\nAaron Sutherland",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769596193.0,
+      "is_read": false
+    },
+    {
+      "email_id": "db30e8a63f6247ef936b90a5d2f6229f",
+      "folder": "INBOX",
+      "sender": "amelia.fairchild@example.net",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 East Side Flats",
+      "content": "Hello,\n\nThe tenant next to me has been extremely loud every weekend. Music blasting until 2am. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks,\nAmelia Fairchild",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769528001.0,
+      "is_read": false
+    },
+    {
+      "email_id": "0b52107182ed4383b7a3db4315ddbb5a",
+      "folder": "INBOX",
+      "sender": "aurora_chambers@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Domain Heights",
+      "content": "Hey,\n\nThe tenant next to me has been extremely loud late at night. Sounds like they are having a party every night. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks,\nAurora Chambers",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769510648.0,
+      "is_read": false
+    },
+    {
+      "email_id": "0349d8c4c2734a2d8f04d6b7ff822982",
+      "folder": "INBOX",
+      "sender": "michael.delacroix@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Mueller Park Residences",
+      "content": "Hi,\n\nThe tenant above me has been extremely loud every weekend. Sounds like they are having a party every night. I've tried knocking on their door but they don't answer. Can you please address this?\n\nBest,\nMichael Delacroix",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769411749.0,
+      "is_read": false
+    },
+    {
+      "email_id": "150fb9939c344b65ac1b3ebe76d9feec",
+      "folder": "INBOX",
+      "sender": "avery.navarro@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 South Lamar Place",
+      "content": "Hi,\n\nThe tenant above me has been extremely loud every weekend. Sounds like they are having a party every night. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks!\nAvery Navarro",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769361562.0,
+      "is_read": false
+    },
+    {
+      "email_id": "e1579b08a9e54f3eb098bd6fa9f14fc7",
+      "folder": "INBOX",
+      "sender": "e.montague@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Riverside Commons",
+      "content": "Hi there,\n\nThe tenant next to me has been extremely loud every weekend. Sounds like they are having a party every night. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks,\nEthan Montague",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769277541.0,
+      "is_read": false
+    },
+    {
+      "email_id": "2d5c9e8d65f14491b538fd63ef3518e0",
+      "folder": "INBOX",
+      "sender": "hannah_crawford@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Domain Heights",
+      "content": "Hey,\n\nThe tenant next to me has been extremely loud every weekend. Music blasting until 2am. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThank you,\nHannah Crawford",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769212251.0,
+      "is_read": false
+    },
+    {
+      "email_id": "967df28f180f4f748d6cad3457d60741",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "amelia.fairchild@example.net"
+      ],
+      "subject": "Re: Maintenance request \u2014 Unit 303",
+      "content": "Hi Amelia,\n\nThanks for reporting this. I\u2019ve assigned a contractor and they should be out within the next 2-3 business days. They\u2019ll call you to schedule a time. Please make sure someone is home or leave a key with the office.\n\nThanks,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769182508.0,
+      "is_read": true
+    },
+    {
+      "email_id": "d96f567d01b2427890d2193acb866a51",
+      "folder": "INBOX",
+      "sender": "j.pemberton@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Pet request \u2014 Unit 301",
+      "content": "Good morning,\n\nI know the lease says no pets, but I was wondering if there\u2019s any way to get approval for a small dog (under 20 lbs)? It\u2019s actually an emotional support animal \u2014 I have a letter from my therapist.\n\nBest,\nJoseph Pemberton",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769128872.0,
+      "is_read": false
+    },
+    {
+      "email_id": "122ac114efb34617b48a979d25e712b6",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "michael.delacroix@inbox.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 105",
+      "content": "Hi Michael,\n\nThanks for letting me know. I understand things come up. Please get the payment in by the 15th to avoid the additional late fee. If you need to discuss a payment plan, let me know and we can work something out.\n\nBest,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769114315.0,
+      "is_read": true
+    },
+    {
+      "email_id": "c6dda9c5361b4826b06c7e722378e686",
+      "folder": "INBOX",
+      "sender": "n.buckley@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Subletting question \u2014 Unit 1",
+      "content": "Hey,\n\nI need to travel for work for 6 weeks and was wondering if I can sublet my apartment while I\u2019m away? I have a friend who\u2019d be interested. What\u2019s the policy on this?\n\nThanks,\nNoah Buckley",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769107448.0,
+      "is_read": false
+    },
+    {
+      "email_id": "83344613175340bab340d7944fd3187d",
+      "folder": "INBOX",
+      "sender": "ryan.whitmore@example.net",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2005 \u2014 Lost apartment key",
+      "content": "Good afternoon,\n\nI submitted a maintenance request (MR-2005) for lost apartment key and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nThank you,\nRyan Whitmore",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769097630.0,
+      "is_read": false
+    },
+    {
+      "email_id": "376a6b98ad1d460884c36464f51a60d4",
+      "folder": "INBOX",
+      "sender": "andrew.cromwell@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 305",
+      "content": "Good afternoon,\n\nI know my rent is overdue and I apologize. I had an unexpected medical expense this month. Can I set up a payment plan to catch up? I can pay half now and the rest by the 15th.\n\nThanks,\nAndrew Cromwell",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769090282.0,
+      "is_read": false
+    },
+    {
+      "email_id": "2cb5ceb042c241178c5c66ff03ea912e",
+      "folder": "INBOX",
+      "sender": "k.westbrook@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Guest parking question",
+      "content": "Hi there,\n\nI\u2019m having family visit this weekend. Is there guest parking available at Manor Road Studios? If so, do they need a pass or can they just park in the visitor spots?\n\nAppreciate it,\nKyle Westbrook",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769074341.0,
+      "is_read": false
+    },
+    {
+      "email_id": "e5bf2b9a58334ddca2f6f7c5a317ef6d",
+      "folder": "INBOX",
+      "sender": "e.barrington@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Crestview Terrace",
+      "content": "Good afternoon,\n\nThe tenant above me has been extremely loud every weekend. Sounds like they are having a party every night. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks!\nEleanor Barrington",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1769059602.0,
+      "is_read": false
+    },
+    {
+      "email_id": "6207516e2cb54f7dbf98c26bb9a46d19",
+      "folder": "INBOX",
+      "sender": "kevin.manning@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Domain Heights",
+      "content": "Hello,\n\nThe tenant above me has been extremely loud every weekend. Sounds like they are having a party every night. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks,\nKevin Manning",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768854648.0,
+      "is_read": false
+    },
+    {
+      "email_id": "a2be7eb29d074d9eac7902ef1d4899a6",
+      "folder": "INBOX",
+      "sender": "patrick_houghton@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Re: Late rent \u2014 Unit 1",
+      "content": "Hi there,\n\nI know my rent is overdue and I apologize. I had an unexpected medical expense this month. Can I set up a payment plan to catch up? I can pay half now and the rest by the 15th.\n\nBest,\nPatrick Houghton",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768840822.0,
+      "is_read": false
+    },
+    {
+      "email_id": "6e1937e9a9d04e41bf3953967718e3b0",
+      "folder": "INBOX",
+      "sender": "h.ellsworth@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Inquiry about 2BR availability",
+      "content": "Hi there,\n\nI saw your listing and I\u2019m interested in a 2-bedroom apartment. What\u2019s available and what\u2019s the rent range? I\u2019m looking to move in within the next month. \n\nThanks,\nHazel Ellsworth",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768840106.0,
+      "is_read": false
+    },
+    {
+      "email_id": "6f0f141a45d84f1784407d4f19c754f4",
+      "folder": "INBOX",
+      "sender": "david.andersen@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2003 \u2014 Door frame warped",
+      "content": "Good morning,\n\nI submitted a maintenance request (MR-2003) for door frame warped and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nThanks,\nDavid Andersen",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768817700.0,
+      "is_read": false
+    },
+    {
+      "email_id": "609354d2faa84cc68c44052a8b8f95a2",
+      "folder": "INBOX",
+      "sender": "brooklyn_rutherford@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Noise complaint \u2014 Bouldin Bungalows",
+      "content": "Hi there,\n\nThe tenant next to me has been extremely loud every weekend. Music blasting until 2am. I've tried knocking on their door but they don't answer. Can you please address this?\n\nThanks,\nBrooklyn Rutherford",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768805909.0,
+      "is_read": false
+    },
+    {
+      "email_id": "11f8e0d1acc547b6b4fb3b40f74af28d",
+      "folder": "INBOX",
+      "sender": "ella.petrov@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2000 \u2014 Deadbolt not locking properly",
+      "content": "Hi there,\n\nI submitted a maintenance request (MR-2000) for deadbolt not locking properly and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nBest,\nElla Petrov",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768782939.0,
+      "is_read": false
+    },
+    {
+      "email_id": "c92337c30225445fa391b24b3a1dc577",
+      "folder": "INBOX",
+      "sender": "jobs@lonestarelectric.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Quote for upcoming work",
+      "content": "Hi,\n\nHere\u2019s the estimate for the work we discussed:\n\n- Labor: $757\n- Parts: $298\n- Total: $652\n\nWe can schedule for next Tuesday. Let me know.\n\nLone Star Electric",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768729982.0,
+      "is_read": false
+    },
+    {
+      "email_id": "61df5d78f7eb4f4a8ca5a387c23852b3",
+      "folder": "INBOX",
+      "sender": "gavin_ellsworth@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Inquiry about 1BR availability",
+      "content": "Hi there,\n\nI saw your listing and I\u2019m interested in a 1-bedroom apartment. What\u2019s available and what\u2019s the rent range? I\u2019m looking to move in by March 1st. \n\nThanks,\nGavin Ellsworth",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768726619.0,
+      "is_read": false
+    },
+    {
+      "email_id": "5aa8f68b8bd64ac1a730ba1af49bc9d9",
+      "folder": "INBOX",
+      "sender": "lily.strickland@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Inquiry about 3BR availability",
+      "content": "Hi there,\n\nI saw your listing and I\u2019m interested in a 3-bedroom apartment. What\u2019s available and what\u2019s the rent range? I\u2019m looking to move in by March 1st. I have a small dog \u2014 is that OK?\n\nThanks,\nLily Strickland",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768724559.0,
+      "is_read": false
+    },
+    {
+      "email_id": "a9b82afa3f1f4eaa93a844d54d0e219a",
+      "folder": "INBOX",
+      "sender": "avery.navarro@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2035 \u2014 Low water pressure in bathroom",
+      "content": "Hi,\n\nI submitted a maintenance request (MR-2035) for low water pressure in bathroom and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nThanks!\nAvery Navarro",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768644009.0,
+      "is_read": false
+    },
+    {
+      "email_id": "aaca31310a284ef98c973995dd315ff2",
+      "folder": "INBOX",
+      "sender": "w.prescott@example.net",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Inquiry about 2BR availability",
+      "content": "Hi there,\n\nI saw your listing and I\u2019m interested in a 2-bedroom apartment. What\u2019s available and what\u2019s the rent range? I\u2019m looking to move in by March 1st. \n\nThanks,\nWilliam Prescott",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768640029.0,
+      "is_read": false
+    },
+    {
+      "email_id": "40bcc68a8adf41a3802df72ba3a4521d",
+      "folder": "INBOX",
+      "sender": "henry_carrington@mail.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Lock change request \u2014 Unit 406",
+      "content": "Hey,\n\nI\u2019d like to get my locks changed. I lost my keys. How do I arrange this and what\u2019s the cost?\n\nBest,\nHenry Carrington",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768623586.0,
+      "is_read": false
+    },
+    {
+      "email_id": "3c1fb84e67554ec4b3097e67d094da20",
+      "folder": "INBOX",
+      "sender": "kevin.manning@inbox.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Follow up on MR-2009 \u2014 Carpet stain won't come out",
+      "content": "Hello,\n\nI submitted a maintenance request (MR-2009) for carpet stain won't come out and haven't heard back yet. This is getting worse. When can someone come look at it?\n\nThanks,\nKevin Manning",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768555543.0,
+      "is_read": false
+    },
+    {
+      "email_id": "611845d3644e4035aeee59f2b6d6d23c",
+      "folder": "INBOX",
+      "sender": "william_donovan@example.org",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Lease renewal question \u2014 Unit 3",
+      "content": "Hi,\n\nMy lease is coming up in a couple months and I wanted to ask about renewal. Will my rent go up? I\u2019ve been here since last year and really like the place.\n\nThanks!\nWilliam Donovan",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768545394.0,
+      "is_read": false
+    },
+    {
+      "email_id": "7c2fc79ca3c24177a50add36f1863c2b",
+      "folder": "INBOX",
+      "sender": "m.ellsworth@example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Guest parking question",
+      "content": "Hello,\n\nI\u2019m having family visit this weekend. Is there guest parking available at Oak Hill Apartments? If so, do they need a pass or can they just park in the visitor spots?\n\nThanks!\nMia Ellsworth",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768499613.0,
+      "is_read": false
+    },
+    {
+      "email_id": "d21172e0dea24def9ca080e86b68f947",
+      "folder": "INBOX",
+      "sender": "mike@mikesplumbing.example.com",
+      "recipients": [
+        "manager@greenleafproperties.example.com"
+      ],
+      "subject": "Quote for upcoming work",
+      "content": "Hi,\n\nHere\u2019s the estimate for the work we discussed:\n\n- Labor: $738\n- Parts: $177\n- Total: $945\n\nWe can schedule for next Tuesday. Let me know.\n\nMike's Plumbing",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1768431403.0,
+      "is_read": false
+    },
+    {
+      "email_id": "cf9cd470bb544a08918e27009d780faf",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "jobs@lonestarelectric.example.com"
+      ],
+      "subject": "Work request \u2014 MR-2011 at Zilker Edge",
+      "content": "Hi Lone team,\n\nWe have a electrical issue at Zilker Edge (1600 Toomey Rd). Tenant reported it earlier this week.\n\nCan you send someone out this week? Please call the tenant to schedule access. Their number is on file.\n\nThanks,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1767868122.0,
+      "is_read": true
+    },
+    {
+      "email_id": "3347e5da3efb438e84c17c2a6cee2d5e",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "scarlett.castellano@example.org"
+      ],
+      "subject": "Re: Maintenance request \u2014 Unit 3",
+      "content": "Hi Scarlett,\n\nThanks for reporting this. I\u2019ve assigned a contractor and they should be out within the next 2-3 business days. They\u2019ll call you to schedule a time. Please make sure someone is home or leave a key with the office.\n\nThanks,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1767717368.0,
+      "is_read": true
+    },
+    {
+      "email_id": "03597509b79141bc94939e2514217b61",
+      "folder": "SENT",
+      "sender": "manager@greenleafproperties.example.com",
+      "recipients": [
+        "repairs@capcityappliance.example.com"
+      ],
+      "subject": "Work request \u2014 MR-2009 at Bouldin Bungalows",
+      "content": "Hi Capital team,\n\nWe have a maintenance issue at Bouldin Bungalows (800 W Mary St). Tenant reported it yesterday.\n\nCan you send someone out this week? Please call the tenant to schedule access. Their number is on file.\n\nThanks,\nGreenLeaf Management",
+      "cc": [],
+      "parent_id": null,
+      "attachments": {},
+      "timestamp": 1767497123.0,
+      "is_read": true
+    }
+  ],
+  "jmap_emails": [],
+  "threads": [],
+  "mailboxes": [
+    {
+      "id": "INBOX",
+      "name": "Inbox",
+      "role": "inbox",
+      "totalEmails": 109,
+      "unreadEmails": 109,
+      "totalThreads": 0,
+      "unreadThreads": 0
+    },
+    {
+      "id": "SENT",
+      "name": "Sent",
+      "role": "sent",
+      "totalEmails": 13,
+      "unreadEmails": 0,
+      "totalThreads": 0,
+      "unreadThreads": 0
+    },
+    {
+      "id": "DRAFT",
+      "name": "Drafts",
+      "role": "drafts",
+      "totalEmails": 0,
+      "unreadEmails": 0,
+      "totalThreads": 0,
+      "unreadThreads": 0
+    },
+    {
+      "id": "TRASH",
+      "name": "Trash",
+      "role": "trash",
+      "totalEmails": 0,
+      "unreadEmails": 0,
+      "totalThreads": 0,
+      "unreadThreads": 0
+    }
+  ]
+}

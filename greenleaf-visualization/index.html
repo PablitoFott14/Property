@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Greenleaf Properties - OpenClaw Universe</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ══ HEADER ══ -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-logo">GL</div>
+        <div class="brand-name">
+          <span>Greenleaf Properties</span>
+          <small>Daniel Reeves · Austin, TX · OpenClaw</small>
+        </div>
+      </div>
+
+      <nav class="tabs">
+        <button class="tab active" data-tab="overview">Overview</button>
+        <button class="tab" data-tab="properties">Properties</button>
+        <button class="tab" data-tab="tenants">Tenants</button>
+        <button class="tab" data-tab="finances">Finances</button>
+        <button class="tab" data-tab="communications">Communications</button>
+        <button class="tab" data-tab="calendar">Calendar</button>
+        <button class="tab" data-tab="contacts">Contacts</button>
+      </nav>
+
+      <div class="hdr-right">
+        <span class="pulse-dot loading" id="status-dot"></span>
+        <span class="status-text" id="status-text">Loading…</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ══ MAIN ══ -->
+  <main class="main">
+
+    <section class="page active" id="page-overview">
+      <div id="overview-content"></div>
+    </section>
+
+    <section class="page" id="page-properties">
+      <div class="page-title"><h2>Properties</h2><p>12 properties · 59 units · Austin, TX</p></div>
+      <div id="properties-content"></div>
+    </section>
+
+    <section class="page" id="page-tenants">
+      <div class="page-title"><h2>Tenants</h2><p>Active leases · Contact info · Lease details</p></div>
+      <div id="tenants-content"></div>
+    </section>
+
+    <section class="page" id="page-finances">
+      <div class="page-title"><h2>Finances</h2><p>Rent roll · Stripe products &amp; pricing</p></div>
+      <div class="sub-tabs">
+        <button class="sub-tab active" data-subtab="fin-rentroll">Rent Roll</button>
+        <button class="sub-tab" data-subtab="fin-products">Products &amp; Pricing</button>
+      </div>
+      <div id="fin-rentroll" class="sub-page active"></div>
+      <div id="fin-products" class="sub-page"></div>
+    </section>
+
+    <section class="page" id="page-communications">
+      <div class="page-title"><h2>Communications</h2><p>Email · manager@greenleafproperties.example.com</p></div>
+      <div id="communications-content"></div>
+    </section>
+
+    <section class="page" id="page-calendar">
+      <div class="page-title"><h2>Calendar</h2><p>Maintenance · Lease events</p></div>
+      <div id="calendar-content"></div>
+    </section>
+
+    <section class="page" id="page-contacts">
+      <div class="page-title"><h2>Contacts</h2><p>Tenants · Contractors · Property manager</p></div>
+      <div id="contacts-content"></div>
+    </section>
+
+  </main>
+
+  <!-- ══ MODAL ══ -->
+  <div id="modal-overlay" class="modal-overlay hidden" onclick="handleModalClick(event)">
+    <div class="modal-box">
+      <div class="modal-header">
+        <div class="modal-header-left">
+          <span class="modal-badge" id="modal-badge"></span>
+          <span class="modal-title" id="modal-title"></span>
+        </div>
+        <button class="modal-close" onclick="closeModal()">✕</button>
+      </div>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- ══ LOADING ══ -->
+  <div id="loading-overlay" class="loading-overlay">
+    <div class="loader-box">
+      <div class="spinner"></div>
+      <p id="load-status">Loading Greenleaf Properties Universe…</p>
+    </div>
+  </div>
+
+  <script src="js/overview.js"></script>
+  <script src="js/properties.js"></script>
+  <script src="js/tenants.js"></script>
+  <script src="js/finances.js"></script>
+  <script src="js/communications.js"></script>
+  <script src="js/calendar.js"></script>
+  <script src="js/contacts.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
